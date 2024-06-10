@@ -1,5 +1,5 @@
 # SE-studying
-All projects that I wrote during my studies
+Here will be all projects that I wrote during my studies
 
 ***My journey is almost 1/4 complete***
 
