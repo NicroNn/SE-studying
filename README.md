@@ -15,5 +15,5 @@ Here will be all projects that I wrote during my studies
 2. [x] Programming in C++
 3. [ ] Computer architecture
 4. [ ] Disrete math
-5. [ ] Linear algebra
+5. [ ] Special sections of higher mathematics
 6. [ ] Mathematical analysis
