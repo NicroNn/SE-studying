@@ -15,6 +15,10 @@ Here will be all projects that I wrote during my studies
 4. [x] Linear algebra
 5. [x] Mathematical analysis
 
+### Intresting projects
+1. Fibonacci heap
+2. Sandpile simulation
+
 ## 2nd semester:
 1. [x] Algorithms and data structures
 2. [x] Programming in C++
@@ -22,3 +26,8 @@ Here will be all projects that I wrote during my studies
 4. [ ] Disrete math
 5. [ ] Special sections of higher mathematics
 6. [ ] Mathematical analysis
+
+
+### Intresting projects
+1. OpenMP Monte Carlo Volume Calculation
+2. Weather console
