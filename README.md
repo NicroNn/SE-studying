@@ -22,7 +22,7 @@ Here will be all projects that I wrote during my studies
 
 ### Intresting projects
 1. [Fibonacci heap](1st%20semester/Algorithms%20and%20data%20structures/lab4/lab4_taskG.cpp)
-2. Sandpile simulation
+2. [Sandpile simulation](1st%20semester/Programming%20in%20C++/labwork3-NicroNn)
 
 ## 2nd semester:
 1. [x] Algorithms and data structures

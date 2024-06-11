@@ -14,8 +14,6 @@ int main(int argc, char* argv[]) {
 
     ParseArguments(argv, argc, args);
 
-    //std::cout << GetFieldSize(args.input);
-
     Field field(GetFieldSize(args.input));
     SetStartPoints(field, args.input);
     Simulate(field, args);
