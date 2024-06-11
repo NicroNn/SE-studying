@@ -6,6 +6,7 @@ Here will be all projects that I wrote during my studies
 # 1st Course
 ## Resulst
 <p style="color: #4BB462;">8000 lines of obvious solutions in O(1)</p>
+7000 lines of C++ in deadline0
 <p style="font-family: 'AMS Math';">1500 &#x1D543;&#x1D538;&#x1D54B;&#x1D53C;&#x1D54F; lines - LA, MA, SSHM</p>
 <img src="/assets/dm_stats.jpg" alt="DM_stats" height="20">
 
