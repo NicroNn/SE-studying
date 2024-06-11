@@ -35,4 +35,4 @@ Here will be all projects that I wrote during my studies
 
 ### Intresting projects
 1. OpenMP Monte Carlo volume calculation
-2. Weather console
+2. [Weather console](2nd%20semester/Programming%20in%20C++/labwork7-NicroNn)
