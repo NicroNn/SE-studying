@@ -27,12 +27,13 @@ Here will be all projects that I wrote during my studies
 ## 2nd semester:
 1. [x] Algorithms and data structures
 2. [x] Programming in C++
-3. [ ] Computer architecture
-4. [ ] Disrete math
-5. [ ] Special sections of higher mathematics
-6. [ ] Mathematical analysis
+3. [x] Computer architecture
+4. [x] Disrete math
+5. [x] Special sections of higher mathematics
+6. [x] Mathematical analysis
 
 
 ### Intresting projects
-1. OpenMP Monte Carlo volume calculation
-2. [Weather console](2nd%20semester/Programming%20in%20C++/labwork7-NicroNn)
+1. [OpenMP Monte Carlo volume calculation](2nd%20semester/Computer%20Architecture/se-comp-arch24-omp-NicroNn)
+2. [Risc-V instructions interpreter with cache simulation](2nd%20semester/Computer%20Architecture/se-comp-arch24-cache-isa-NicroNn)
+3. [Weather console](2nd%20semester/Programming%20in%20C++/labwork7-NicroNn)
