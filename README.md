@@ -1,7 +1,7 @@
 # SE-studying
 Here will be all projects that I wrote during my studies
 
-***My journey is almost 1/4 complete***
+***My journey is 1/4 complete***
 
 # 1st Course
 ## Resulst
@@ -38,3 +38,18 @@ Here will be all projects that I wrote during my studies
 1. [OpenMP Monte Carlo volume calculation](2nd%20semester/Computer%20Architecture/se-comp-arch24-omp-NicroNn)
 2. [Risc-V instructions interpreter with cache simulation](2nd%20semester/Computer%20Architecture/se-comp-arch24-cache-isa-NicroNn)
 3. [Weather console](2nd%20semester/Programming%20in%20C++/labwork7-NicroNn)
+
+
+# 2nd Course
+## Results
+
+## 3rd semester
+1. [ ] Data Bases
+2. [ ] OOP in C#
+3. [ ] Physical foundations of network technologies
+
+### Intresting projects
+
+## 4th semester
+
+### Intresting projects
