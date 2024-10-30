@@ -9,6 +9,7 @@ Here will be all projects that I wrote during my studies
 <p style="font-family: Consolas;">7000 lines of C++ in deadline0 - CPPP</p>
 <p style="font-family: 'AMS Math';">1500 &#x1D543;&#x1D538;&#x1D54B;&#x1D53C;&#x1D54F; lines - LA, MA, SSHM</p>
 <img src="/assets/dm_stats.jpg" alt="DM_stats" height="20">
+3500 lines of genius (+ 2500 for stack of logic elements)
 
 
 
